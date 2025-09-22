@@ -10,6 +10,7 @@ This toolkit helps you systematically evaluate team types, interaction patterns,
 
 ### 📋 Assessment Tools
 - **[Team Assessment Survey](team-topology-assessment-survey.md)** - Structured questionnaire for team self-assessment
+- **[Google Forms Version](google-forms-setup-guide.md)** - Setup guide for creating the survey in Google Forms
 - **[Interview Guide](team-topology-interview-guide.md)** - Detailed interview template with probing questions
 - **[Dependency Mapping Canvas](dependency-mapping-canvas.md)** - Visual canvas for mapping team relationships
 

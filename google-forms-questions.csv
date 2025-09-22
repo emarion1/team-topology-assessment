@@ -1,0 +1,58 @@
+Question Type,Question Title,Question Description,Options,Required,Section
+Short Answer,Team Name,What is your team name?,,"Yes",Team Information
+Short Answer,Team Lead,Who is your team lead?,,"Yes",Team Information
+Number,Team Size,How many people are on your team?,,"Yes",Team Information
+Short Answer,Primary Technology Stack,What is your primary technology stack?,,"Yes",Team Information
+Linear Scale,A1.1 - Direct customer contact,Our team has direct contact with external customers/end-users,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Customer Orientation
+Linear Scale,A1.2 - Customer impact measurement,We can directly measure the impact of our work on customer outcomes,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Customer Orientation
+Linear Scale,A1.3 - Customer-tied success metrics,Our success metrics are tied to customer satisfaction or business KPIs,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Customer Orientation
+Linear Scale,A1.4 - Direct user feedback,We regularly receive feedback directly from users of our products/services,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Customer Orientation
+Linear Scale,A2.1 - Internal customers,Other internal teams are our primary customers,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Service Provision
+Linear Scale,A2.2 - Reusable services,We provide reusable services/tools that multiple teams consume,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Service Provision
+Linear Scale,A2.3 - Enabling productivity,We focus on enabling other teams to be more productive,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Service Provision
+Linear Scale,A2.4 - Reducing duplication,Our work reduces duplication of effort across the organization,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Service Provision
+Linear Scale,A3.1 - Coaching time,We spend significant time coaching or mentoring other teams,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Knowledge Transfer
+Linear Scale,A3.2 - Technology adoption,We help teams adopt new technologies practices or standards,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Knowledge Transfer
+Linear Scale,A3.3 - Documentation creation,We create documentation guidelines or best practices for others,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Knowledge Transfer
+Linear Scale,A3.4 - Temporary embedding,We temporarily embed with other teams to transfer knowledge,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Knowledge Transfer
+Linear Scale,A4.1 - Specialized knowledge,Our work requires highly specialized domain knowledge,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Specialized Expertise
+Linear Scale,A4.2 - Duplication inefficiency,It would be inefficient for other teams to duplicate our capabilities,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Specialized Expertise
+Linear Scale,A4.3 - Complex algorithms,Our systems involve complex algorithms or mathematical models,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Specialized Expertise
+Linear Scale,A4.4 - Training requirements,New team members require extensive training to become productive,"1,2,3,4,5","Yes",Section A: Team Purpose & Focus - Specialized Expertise
+Linear Scale,B1.1 - Technology choice,We can choose our own technology stack without external approval,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - Decision Making
+Linear Scale,B1.2 - Deployment control,We control our own deployment process and schedule,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - Decision Making
+Linear Scale,B1.3 - Process control,We can change our team processes without affecting other teams,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - Decision Making
+Linear Scale,B1.4 - Priority setting,We set our own priorities and roadmap,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - Decision Making
+Linear Scale,B2.1 - Waiting for teams,We frequently wait for other teams to complete work before we can proceed,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - External Dependencies
+Linear Scale,B2.2 - Release coordination,Our releases require coordination with multiple other teams,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - External Dependencies
+Linear Scale,B2.3 - Breaking changes,Changes in other teams' systems often break our functionality,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - External Dependencies
+Linear Scale,B2.4 - Approval requirements,We need approval from other teams for most of our changes,"1,2,3,4,5","Yes",Section B: Autonomy & Dependencies - External Dependencies
+Number,C1.1 - Daily interactions,How many teams does your team interact with daily?,,"No",Section C: Interaction Patterns - Collaboration Frequency
+Number,C1.2 - Weekly interactions,How many teams does your team interact with weekly?,,"No",Section C: Interaction Patterns - Collaboration Frequency
+Number,C1.3 - Monthly interactions,How many teams does your team interact with monthly?,,"No",Section C: Interaction Patterns - Collaboration Frequency
+Number,C1.4 - Quarterly interactions,How many teams does your team interact with quarterly?,,"No",Section C: Interaction Patterns - Collaboration Frequency
+Multiple Choice,C2 - Communication Methods,Select all communication methods your team uses with other teams (select all that apply),"Shared Slack channels with other teams,Regular cross-team meetings,Shared documentation/wikis,Joint planning sessions,Shared code repositories,Cross-team embedded members","No",Section C: Interaction Patterns - Communication Methods
+Linear Scale,C3.1 - Well-defined APIs,Other teams consume our services through well-defined APIs,"1,2,3,4,5","Yes",Section C: Interaction Patterns - Service Relationships
+Linear Scale,C3.2 - Self-service onboarding,We provide self-service onboarding for teams using our services,"1,2,3,4,5","Yes",Section C: Interaction Patterns - Service Relationships
+Linear Scale,C3.3 - Minimal involvement,Teams can use our services without direct involvement from us,"1,2,3,4,5","Yes",Section C: Interaction Patterns - Service Relationships
+Linear Scale,C3.4 - Service contracts,We have SLAs or service contracts with consuming teams,"1,2,3,4,5","Yes",Section C: Interaction Patterns - Service Relationships
+Linear Scale,D1.1 - Context switching,Team members frequently context-switch between different domains,"1,2,3,4,5","Yes",Section D: Cognitive Load - Complexity Management
+Linear Scale,D1.2 - System overload,We maintain more systems than we can comfortably handle,"1,2,3,4,5","Yes",Section D: Cognitive Load - Complexity Management
+Linear Scale,D1.3 - Overwhelmed feeling,Team members often feel overwhelmed by the breadth of responsibilities,"1,2,3,4,5","Yes",Section D: Cognitive Load - Complexity Management
+Linear Scale,D1.4 - External expertise,We frequently need expertise from outside our team,"1,2,3,4,5","Yes",Section D: Cognitive Load - Complexity Management
+Number,D2.1 - Applications owned,Number of applications/services owned,,"No",Section D: Cognitive Load - System Ownership
+Number,D2.2 - Programming languages,Number of programming languages used,,"No",Section D: Cognitive Load - System Ownership
+Number,D2.3 - Technology platforms,Number of different technology platforms,,"No",Section D: Cognitive Load - System Ownership
+Number,D2.4 - External integrations,Number of external integrations maintained,,"No",Section D: Cognitive Load - System Ownership
+Linear Scale,E1.1 - Collaboration preference,Rate your preference for Collaboration Mode - Joint working on shared goals,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Preferred Interaction Mode
+Linear Scale,E1.2 - XaaS preference,Rate your preference for X-as-a-Service Mode - Providing/consuming services with minimal interaction,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Preferred Interaction Mode
+Linear Scale,E1.3 - Facilitating preference,Rate your preference for Facilitating Mode - Helping other teams improve their capabilities,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Preferred Interaction Mode
+Linear Scale,E2.1 - Meeting overhead,We spend too much time in meetings with other teams,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Communication Overhead
+Linear Scale,E2.2 - Communication delays,Communication delays with other teams slow down our delivery,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Communication Overhead
+Linear Scale,E2.3 - Work duplication,We often duplicate work being done by other teams,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Communication Overhead
+Linear Scale,E2.4 - Misunderstandings,Misunderstandings with other teams cause rework,"1,2,3,4,5","Yes",Section E: Interaction Preferences - Communication Overhead
+Paragraph,Team Purpose,In one sentence describe your team's primary purpose,,"Yes",Open-Ended Questions
+Paragraph,Key Relationships,List the 3 teams you interact with most frequently and describe the nature of each relationship,,"Yes",Open-Ended Questions
+Paragraph,Biggest Challenges,What are your team's biggest challenges related to working with other teams?,,"Yes",Open-Ended Questions
+Paragraph,Ideal State,If you could redesign how your team interacts with others what would you change?,,"Yes",Open-Ended Questions
+Paragraph,Success Metrics,What metrics does your team use to measure success?,,"Yes",Open-Ended Questions
