@@ -8,6 +8,9 @@ This toolkit helps you systematically evaluate team types, interaction patterns,
 
 ## What's Included
 
+### 📚 Strategy & Framework
+- **[Team Topologies Implementation Guide](team_topologies.md)** - Comprehensive framework and strategy document
+
 ### 📋 Assessment Tools
 - **[Team Assessment Survey](team-topology-assessment-survey.md)** - Structured questionnaire for team self-assessment
 - **[Google Forms Version](google-forms-setup-guide.md)** - Setup guide for creating the survey in Google Forms
@@ -22,15 +25,25 @@ This toolkit helps you systematically evaluate team types, interaction patterns,
 
 ## Quick Start
 
-### For Small Organizations (5-10 teams)
+### 1. Understand the Strategy
+- Read the **[Team Topologies Implementation Guide](team_topologies.md)** for comprehensive framework understanding
+- Review team types, interaction patterns, and optimization strategies
+
+### 2. Assess Your Organization
+
+**For Small Organizations (5-10 teams):**
 1. Start with the **Team Assessment Survey**
 2. Conduct **interviews** with team leads
 3. Apply the **Scoring Framework** for analysis
 
-### For Large Organizations (10+ teams)
+**For Large Organizations (10+ teams):**
 1. Run the **collaborative workshop** first
 2. Follow up with **surveys** and **interviews**
 3. Use **dependency mapping** for complex relationships
+
+### 3. Implement Changes
+- Follow the **Implementation Roadmap** in the strategy guide
+- Use optimization recommendations for specific improvements
 
 ## Team Types Assessed
 
