@@ -1,22 +1,26 @@
 # Enterprise Team Topology Assessment Interview Guide
 
 ## Pre-Interview Setup
-- **Duration:** 60-90 minutes (extended for enterprise complexity)
-- **Attendees:** Team lead + 2-3 core team members + Business Unit representative
-- **Materials:** This guide, enterprise org chart, cross-BU dependency mapping worksheet
-- **Goal:** Understand team type, cross-business-unit interaction patterns, enterprise-scale improvement opportunities
-- **Context:** Part of organization-wide assessment involving 20+ teams across multiple business units
+- **Duration:** 45-60 minutes (streamlined for survey validation)
+- **Attendees:** Team lead + 1-2 core team members
+- **Materials:** Team's survey responses, preliminary analysis findings, targeted question list
+- **Goal:** Validate survey insights, clarify unclear responses, explore unexpected patterns
+- **Context:** Strategic validation interview based on survey analysis findings (conducted with 5-10 selected teams)
+- **Selection Criteria:** Teams with unclear classifications, high cross-BU dependencies, or unique patterns in survey data
 
 ## Opening (5 minutes)
 
 ### Introduction
-"Thank you for taking the time to discuss your team's structure and interactions in our enterprise-wide Team Topology assessment. This assessment will help us understand how teams work together across business units and identify opportunities to improve collaboration and reduce friction at enterprise scale. We're particularly interested in cross-business-unit dependencies and platform service opportunities. There are no right or wrong answers - we want to understand your current reality within our complex organizational structure."
+"Thank you for taking the time for this validation interview. We've analyzed your team's survey responses along with data from all teams across the enterprise. This focused conversation will help us validate our preliminary findings and dive deeper into specific patterns we identified. We've selected your team for this interview because [specific reason: unclear classification/high cross-BU dependencies/unique patterns]. Our goal is to ensure our survey-based analysis accurately reflects your team's reality."
 
-### Ground Rules
-- Honest feedback is valuable
-- Focus on current state, not desired state
-- Examples and specific situations are helpful
-- All responses will be aggregated and anonymized
+### Interview Focus
+- **Survey Validation**: Confirm or clarify specific survey responses
+- **Pattern Exploration**: Understand unexpected findings in your data
+- **Gap Filling**: Address areas where survey data was unclear
+- **Context Addition**: Provide nuance that survey questions couldn't capture
+
+### Your Survey Results Summary
+[Facilitator presents 2-3 key findings from team's survey responses before beginning questions]
 
 ## Section 1: Enterprise Team Overview (15 minutes)
 

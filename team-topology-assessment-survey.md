@@ -3,7 +3,7 @@
 ## Instructions
 Please complete this survey for your team. This enterprise assessment will help identify your team's topology type and interaction patterns across our large organization. Rate each statement on a scale of 1-5 (1 = Strongly Disagree, 5 = Strongly Agree).
 
-**Context**: This survey is part of an organization-wide Team Topology assessment involving 20+ teams across multiple business units. Your responses will help optimize team interactions and reduce cross-organizational dependencies.
+**Context**: This survey is the PRIMARY data collection method for our organization-wide Team Topology assessment involving 20+ teams across multiple business units. Your detailed responses will drive our analysis of team classifications, cross-BU dependencies, and optimization opportunities. This survey-based approach minimizes meeting overhead while providing comprehensive organizational insights.
 
 ## Team Information
 - **Team Name:** _______________
@@ -153,4 +153,10 @@ Rate your preference (1-5) for each interaction mode:
 7. **Success Metrics**: What metrics does your team use to measure success, and how do they align with enterprise objectives?
 
 ## Thank You!
-Your responses will help us better understand team interactions and identify opportunities for improvement.
+Your detailed survey responses are the foundation of our enterprise Team Topology assessment. This survey-centric approach allows us to:
+- Analyze patterns across all 20+ teams efficiently
+- Minimize meeting overhead and disruption to your team
+- Generate data-driven insights and recommendations
+- Identify cross-business-unit optimization opportunities
+
+Follow-up: Based on survey analysis, we may conduct a brief validation interview with select teams to dive deeper into specific findings.

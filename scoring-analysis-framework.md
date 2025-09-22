@@ -1,7 +1,7 @@
 # Enterprise Team Topology Scoring & Analysis Framework
 
 ## Overview
-This enterprise-focused framework provides a systematic approach to analyze survey responses, interview data, and dependency mappings across multiple business units to classify teams and identify large-scale optimization opportunities in organizations with 20+ teams.
+This enterprise-focused framework provides a systematic approach to analyze survey responses as the primary data source, supplemented by targeted validation interviews, to classify teams and identify large-scale optimization opportunities in organizations with 20+ teams. The framework is optimized for survey-centric analysis to minimize meeting overhead while maximizing analytical accuracy.
 
 ---
 
@@ -149,38 +149,51 @@ Each team type receives a score from 0-100 based on weighted criteria. The highe
 
 ## 4. Analysis Workflow
 
-### Step 1: Data Collection Validation
-- [ ] Survey completion rate > 80%
-- [ ] Interview coverage includes all major teams
-- [ ] Dependency mappings completed
-- [ ] Data quality check completed
+### Step 1: Survey Data Collection Validation
+- [ ] Survey completion rate > 85% (primary data source)
+- [ ] Data quality check: Complete responses for all required fields
+- [ ] Cross-validation: Identify teams needing validation interviews
+- [ ] Pattern identification: Flag unusual or conflicting responses
 
-### Step 2: Team Classification
+### Step 2: Survey-Based Team Classification
 ```
 For each team:
-1. Calculate all four team type scores
+1. Calculate all four team type scores from survey responses
 2. Identify primary type (highest score)
 3. Note secondary type if score > 60
 4. Flag teams with unclear classification (top 2 scores within 20 points)
-5. Validate classification against interview notes
+5. Queue unclear teams for validation interviews
+6. Generate confidence score based on survey response consistency
 ```
 
-### Step 3: Interaction Pattern Analysis
+### Step 3: Survey-Driven Interaction Pattern Analysis
 ```
-For each team pair relationship:
-1. Identify current interaction mode
-2. Assess interaction effectiveness
-3. Calculate communication overhead
-4. Identify optimization opportunities
+Based on survey responses:
+1. Map cross-BU dependencies from survey data (sections C1, E3)
+2. Identify communication inefficiencies (section E2)
+3. Calculate enterprise platform service satisfaction (section E4)
+4. Generate dependency visualization from survey responses
+5. Flag high-impact relationships for potential interview validation
 ```
 
-### Step 4: Health Assessment
+### Step 4: Survey-Based Health Assessment
 ```
 For each team:
-1. Calculate team health score
-2. Identify red flags
-3. Prioritize improvement areas
-4. Create improvement recommendations
+1. Calculate team health score from survey responses
+2. Identify enterprise red flags (cross-BU dependencies, platform issues)
+3. Prioritize improvement areas based on survey data patterns
+4. Queue teams with critical red flags for validation interviews
+5. Generate enterprise-wide health dashboard
+```
+
+### Step 5: Targeted Interview Validation (5-10 teams)
+```
+Selection criteria for validation interviews:
+1. Teams with unclear classifications (confidence score < 70%)
+2. Teams with >5 cross-BU dependencies (section E3.1)
+3. Teams with red flags requiring deeper investigation
+4. Teams representing each business unit (representative sampling)
+5. Teams with unique patterns that don't fit standard classifications
 ```
 
 ---

@@ -65,37 +65,43 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 
 ### Assessment Tools & Approach
 
-#### 🔍 **Option A: Comprehensive Assessment (Recommended)**
-**Timeline**: 3-6 months | **Coverage**: All teams | **Effort**: High | **Accuracy**: Highest
+#### 🔍 **Option A: Survey-Centric Assessment (Recommended)**
+**Timeline**: 6-10 weeks | **Coverage**: All teams | **Effort**: Medium | **Accuracy**: High
 
-1. **[Enterprise Survey](team-topology-assessment-survey.md)** → Deploy organization-wide with executive messaging
-2. **[Workshop Series](workshop-facilitation-guide.md)** → 6-10 workshops across business units
-3. **[Executive Interviews](team-topology-interview-guide.md)** → 20-30 interviews with leaders and team leads
-4. **[Dependency Mapping](dependency-mapping-canvas.md)** → Cross-BU relationship visualization
+1. **[Enterprise Survey](team-topology-assessment-survey.md)** → Primary data collection method with comprehensive cross-BU analysis
+2. **[Targeted Interviews](team-topology-interview-guide.md)** → 5-10 strategic interviews to validate survey insights
+3. **[Dependency Mapping](dependency-mapping-canvas.md)** → Data-driven visualization based on survey responses
+4. **[Optional Workshop](workshop-facilitation-guide.md)** → Single cross-BU validation workshop if needed
 
 #### ⚡ **Option B: Pilot Assessment (Quick Start)**
-**Timeline**: 1-2 months | **Coverage**: 5-8 teams | **Effort**: Medium | **Accuracy**: Good
+**Timeline**: 3-4 weeks | **Coverage**: 5-8 teams | **Effort**: Low | **Accuracy**: Good
 
-1. **Pilot Team Selection** → Choose representative teams across different business units
-2. **Focused Workshops** → 2-3 workshops with pilot teams
-3. **Targeted Interviews** → Interview pilot team leads and key stakeholders
+1. **Pilot Survey** → Deploy survey to representative teams across business units
+2. **Validation Interviews** → 3-5 interviews with pilot team leads
+3. **Data Analysis** → Apply scoring framework to pilot data
 
 ### Assessment Execution Guide
 
-#### **Week 1-2: Survey Deployment**
-- Deploy **[Enterprise Survey](team-topology-assessment-survey.md)** to all teams
-- Target 80%+ response rate with executive support
-- **Pro Tip**: Use the **[Google Forms Setup Guide](google-forms-setup-guide.md)** for easy distribution
+#### **Week 1-2: Survey Deployment & Promotion**
+- Deploy **[Enterprise Survey](team-topology-assessment-survey.md)** organization-wide
+- **Executive messaging** and follow-up to achieve 85%+ response rate
+- **Pro Tip**: Use the **[Google Forms Setup Guide](google-forms-setup-guide.md)** for easy distribution and tracking
+- **Survey monitoring**: Daily response rate tracking and targeted follow-ups
 
-#### **Week 3-8: Workshop Series**
-- Run **[Enterprise Workshops](workshop-facilitation-guide.md)** organized by business unit
-- 4 hours per workshop, 12-16 participants each
-- Focus on cross-BU dependency mapping and interaction patterns
+#### **Week 3-4: Survey Analysis & Pattern Identification**
+- Apply **[Enterprise Scoring Framework](scoring-analysis-framework.md)** to survey responses
+- Identify patterns, red flags, and areas requiring deeper investigation
+- Generate preliminary team classifications and cross-BU dependency maps
 
-#### **Week 6-12: Interview Program**
-- Conduct **[Enterprise Interviews](team-topology-interview-guide.md)** with team leads
-- 60-90 minutes each, include business unit representatives
-- Validate survey findings and dive deep into cross-BU challenges
+#### **Week 5-8: Targeted Validation Interviews**
+- Conduct **[Strategic Interviews](team-topology-interview-guide.md)** with 5-10 key stakeholders
+- Focus on validating survey findings and exploring unexpected patterns
+- Target teams with unclear classifications or high cross-BU dependencies
+
+#### **Week 9-10: Optional Validation Workshop**
+- **Only if needed**: Run single **[Cross-BU Workshop](workshop-facilitation-guide.md)** to validate major findings
+- Focus on highest-impact cross-BU dependencies and platform consolidation opportunities
+- 3-4 hours with 8-12 key representatives from across business units
 
 ---
 
@@ -147,15 +153,15 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 ### 📚 **Strategy & Framework**
 - **[Team Topologies Implementation Guide](team_topologies.md)** - Comprehensive framework and strategy document
 
-### 📋 **Assessment Tools**
-- **[Enterprise Survey](team-topology-assessment-survey.md)** - Structured questionnaire with cross-BU focus
-- **[Google Forms Setup Guide](google-forms-setup-guide.md)** - Easy online survey deployment
-- **[Interview Guide](team-topology-interview-guide.md)** - Enterprise-scale interview template
-- **[Dependency Mapping Canvas](dependency-mapping-canvas.md)** - Visual relationship mapping
+### 📋 **Assessment Tools** (Primary: Survey-Based)
+- **[Enterprise Survey](team-topology-assessment-survey.md)** - Primary assessment tool with comprehensive cross-BU analysis
+- **[Google Forms Setup Guide](google-forms-setup-guide.md)** - Easy online survey deployment and response tracking
+- **[Interview Guide](team-topology-interview-guide.md)** - Strategic validation interviews (5-10 interviews)
+- **[Dependency Mapping Canvas](dependency-mapping-canvas.md)** - Data-driven visualization from survey responses
 
 ### 📊 **Analysis & Implementation**
-- **[Scoring & Analysis Framework](scoring-analysis-framework.md)** - Mathematical classification system
-- **[Workshop Facilitation Guide](workshop-facilitation-guide.md)** - Multi-workshop series coordination
+- **[Scoring & Analysis Framework](scoring-analysis-framework.md)** - Mathematical classification system optimized for survey data
+- **[Workshop Facilitation Guide](workshop-facilitation-guide.md)** - Optional single validation workshop (if needed)
 
 ---
 
@@ -173,10 +179,12 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 - [ ] Develop communication plan for organization-wide initiative
 
 ### ✅ **Months 1-3** (Assessment Phase)
-- [ ] Deploy enterprise survey organization-wide
-- [ ] Conduct workshop series across business units
-- [ ] Complete interview program with team leads
-- [ ] Create cross-BU dependency mappings
+- [ ] Deploy enterprise survey organization-wide with executive support
+- [ ] Achieve 85%+ survey response rate through targeted follow-ups
+- [ ] Analyze survey data and apply scoring framework
+- [ ] Conduct 5-10 strategic validation interviews
+- [ ] Create data-driven cross-BU dependency mappings
+- [ ] Optional: Run single validation workshop if significant gaps identified
 
 ### ✅ **Month 4** (Analysis Phase)
 - [ ] Apply scoring framework to classify all teams
