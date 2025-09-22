@@ -1,7 +1,7 @@
-# Team Topology Scoring & Analysis Framework
+# Enterprise Team Topology Scoring & Analysis Framework
 
 ## Overview
-This framework provides a systematic approach to analyze survey responses, interview data, and dependency mappings to classify teams and identify optimization opportunities.
+This enterprise-focused framework provides a systematic approach to analyze survey responses, interview data, and dependency mappings across multiple business units to classify teams and identify large-scale optimization opportunities in organizations with 20+ teams.
 
 ---
 
@@ -135,12 +135,15 @@ Each team type receives a score from 0-100 based on weighted criteria. The highe
 - Clear success metrics: Survey quality × 12.5
 - Customer feedback loops: Survey A1.4 × 12.5
 
-### Red Flags (Immediate Attention Required)
+### Enterprise Red Flags (Immediate Attention Required)
 - **High Cognitive Load**: Survey D1.2 or D1.3 ≥ 4
-- **Excessive Dependencies**: Survey B2.1 ≥ 4
-- **Communication Overload**: Survey E2.1 ≥ 4
-- **Unclear Purpose**: Vague responses to team mission questions
+- **Excessive Cross-BU Dependencies**: Survey E3.1 > 5 teams or E3.2 > 30%
+- **Communication Overload**: Survey E2.1 ≥ 4 or excessive cross-BU meeting time
+- **Cross-BU Inefficiency**: Survey E3.4 ≤ 2 (poor cross-BU communication effectiveness)
+- **Platform Service Dissatisfaction**: Survey E4.2 ≤ 2 (enterprise platform quality issues)
+- **Unclear Purpose**: Vague responses to enterprise context questions
 - **Conflicting Classifications**: Multiple team types score > 70
+- **Duplicate Platform Services**: Multiple teams providing similar capabilities across BUs
 
 ---
 
@@ -232,28 +235,40 @@ For each team:
 
 ---
 
-## 6. Aggregated Analysis
+## 6. Enterprise Aggregated Analysis
 
-### Organization-Level Metrics
-- **Team Type Distribution**:
-  - Stream-Aligned: X teams (X%)
-  - Platform: X teams (X%)
-  - Enabling: X teams (X%)
-  - Complicated Subsystem: X teams (X%)
+### Enterprise-Level Metrics
+- **Team Type Distribution by Business Unit**:
+  - BU A: Stream-Aligned: X, Platform: X, Enabling: X, Complicated: X
+  - BU B: Stream-Aligned: X, Platform: X, Enabling: X, Complicated: X
+  - Enterprise Total: Stream-Aligned: X teams (X%), Platform: X teams (X%), Enabling: X teams (X%), Complicated Subsystem: X teams (X%)
+
+- **Cross-Business Unit Dependencies**:
+  - Average cross-BU dependencies per team: X
+  - Teams with >5 cross-BU dependencies: X teams
+  - Most cross-BU dependent teams: [List top 5]
+
+- **Platform Service Analysis**:
+  - Duplicate platform capabilities across BUs: [List duplicates]
+  - Platform consolidation opportunities: [List recommendations]
+  - Enterprise platform satisfaction: XX/100
 
 - **Average Health Scores**:
-  - Overall: XX/100
+  - Overall enterprise: XX/100
+  - By business unit breakdown
   - By team type breakdown
 
-- **Common Issues**:
-  - Most frequent red flags
-  - Common interaction inefficiencies
-  - Widespread autonomy gaps
+- **Enterprise Common Issues**:
+  - Most frequent cross-BU friction points
+  - Common enterprise interaction inefficiencies
+  - Widespread cross-BU autonomy gaps
+  - Platform service fragmentation
 
-### Improvement Priorities
-1. **High Impact, Low Effort**: [List opportunities]
-2. **High Impact, High Effort**: [List strategic initiatives]
-3. **Quick Wins**: [List immediate improvements]
+### Enterprise Improvement Priorities
+1. **Cross-BU Quick Wins**: [List immediate cross-BU improvements]
+2. **Platform Consolidation**: [List platform service consolidation opportunities]
+3. **Strategic Enterprise Initiatives**: [List long-term cross-BU transformations]
+4. **Business Unit Specific**: [List BU-specific optimizations]
 
 ---
 

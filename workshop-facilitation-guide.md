@@ -1,79 +1,99 @@
-# Team Topology Mapping Workshop Facilitation Guide
+# Enterprise Team Topology Mapping Workshop Series Facilitation Guide
 
 ## Workshop Overview
-**Purpose**: Collaborative assessment of team types and interaction patterns using group exercises and visual mapping techniques.
+**Purpose**: Collaborative assessment of team types and cross-business-unit interaction patterns using enterprise-scale group exercises and visual mapping techniques.
 
-**Duration**: 3 hours (can be split into 2x 90-minute sessions)
-**Participants**: 8-12 team representatives (team leads or senior members)
-**Materials**: Sticky notes, markers, flipchart paper, dependency mapping templates
+**Format**: Workshop Series - Multiple sessions across business units
+**Duration**: 4 hours per workshop (recommended 2x 2-hour sessions)
+**Participants**: 12-16 representatives per workshop (team leads, architects, business unit leaders)
+**Enterprise Scale**: 6-10 workshops total covering all business units
+**Materials**: Digital collaboration tools, large format dependency mapping, cross-BU interaction templates
 
 ---
 
-## Pre-Workshop Preparation (1 week before)
+## Pre-Workshop Preparation (2 weeks before)
 
-### Facilitator Preparation
-- [ ] Send pre-workshop survey to all participants
-- [ ] Prepare room with wall space for large visual maps
-- [ ] Print dependency mapping canvases (1 per team)
-- [ ] Prepare sticky note colors (4 colors for team types)
-- [ ] Set up digital collaboration tool backup (Miro/Mural)
-- [ ] Review basic Team Topologies concepts
+### Enterprise Facilitator Preparation
+- [ ] Coordinate with business unit leaders for workshop scheduling
+- [ ] Send enterprise pre-workshop survey to all participants across business units
+- [ ] Prepare enterprise org chart and business unit structure overview
+- [ ] Set up digital collaboration tools (Miro/Mural) for large-scale mapping
+- [ ] Prepare cross-business-unit dependency mapping templates
+- [ ] Create enterprise-wide team inventory
+- [ ] Review Team Topologies concepts with enterprise context
+- [ ] Coordinate with IT for workshop technology requirements
 
-### Participant Preparation
-- [ ] Complete pre-workshop survey
-- [ ] Bring team structure diagrams if available
-- [ ] Prepare 2-minute team overview presentation
-- [ ] Identify key interaction challenges to discuss
+### Enterprise Participant Preparation
+- [ ] Complete enterprise pre-workshop survey
+- [ ] Prepare business unit context presentation (5 minutes)
+- [ ] Bring current cross-BU collaboration challenges
+- [ ] Identify enterprise platform services currently used
+- [ ] Prepare list of teams your BU interacts with regularly
+- [ ] Review enterprise architecture documentation (if available)
 
 ---
 
 ## Workshop Agenda
 
-### Opening (30 minutes)
+### Opening (45 minutes)
 
-#### Welcome & Introductions (10 minutes)
+#### Welcome & Enterprise Context Setting (15 minutes)
 **Facilitator Script:**
-"Welcome everyone. Today we're going to collaboratively map how our teams work together and identify opportunities to improve our effectiveness. This is about understanding our current reality, not judging whether it's right or wrong."
+"Welcome everyone to our enterprise-wide Team Topology assessment workshop. Today we're going to collaboratively map how our teams work together across business units and identify opportunities to improve our effectiveness at enterprise scale. We have representatives from [X] business units here today. This is about understanding our current reality across the entire organization, not judging whether it's right or wrong."
 
-#### Team Topologies Overview (20 minutes)
+#### Enterprise Introductions (15 minutes)
+- Each participant introduces themselves: Name, team, business unit, primary function
+- Quick business unit overview from BU representatives
+- Highlight cross-BU relationships already known
+
+#### Team Topologies Overview with Enterprise Context (15 minutes)
 **Content to Cover:**
-- 4 team types with examples
-- 3 interaction modes with examples
-- Conway's Law and cognitive load concepts
-- Visual examples from other organizations
+- 4 team types with enterprise examples
+- 3 interaction modes with cross-BU examples
+- Conway's Law applied to enterprise architecture
+- Cognitive load challenges in large organizations
+- Platform consolidation opportunities
 
 **Interactive Element:**
 - Quick poll: "Which team type do you think your team is?"
-- Note responses without discussion
+- "How many teams outside your BU do you regularly interact with?"
 
 ---
 
-### Exercise 1: Team Identity Mapping (45 minutes)
+### Exercise 1: Enterprise Team Identity & Cross-BU Mapping (60 minutes)
 
-#### Setup (5 minutes)
-- Divide into team groups (1 facilitator per 3-4 teams)
-- Provide each team with dependency mapping canvas
-- Explain the exercise goal
+#### Setup (10 minutes)
+- Organize participants by business unit first, then mixed cross-BU groups
+- Provide enterprise dependency mapping canvas with cross-BU sections
+- Explain enterprise-scale exercise goals
 
-#### Team Canvas Completion (30 minutes)
+#### Business Unit Team Mapping (25 minutes)
 **Instructions:**
-"Complete sections 1-3 of your dependency mapping canvas:
-1. Core team information
-2. Upstream dependencies
-3. Downstream dependencies
+"Working within your business unit group, complete enterprise team mapping:
+1. Core team information with BU context
+2. Within-BU upstream dependencies
+3. Cross-BU upstream dependencies
+4. Within-BU downstream dependencies
+5. Cross-BU downstream dependencies
 
-Focus on facts, not opinions. Use specific examples."
+Focus on facts and specific cross-BU examples. Pay special attention to cross-business-unit relationships."
 
 **Facilitator Role:**
-- Circulate between teams
-- Ask clarifying questions
-- Help teams stay factual
-- Note interesting patterns
+- Circulate between BU groups
+- Focus on cross-BU dependency identification
+- Help quantify interaction frequency and impact
+- Note enterprise-scale patterns
 
-#### Gallery Walk (10 minutes)
-- Teams post their canvases on walls
-- Silent review of all other teams' canvases
-- Participants note questions or observations
+#### Cross-BU Validation (15 minutes)
+- Mix groups to include representatives from each BU
+- Validate cross-BU dependencies identified
+- Identify conflicting perspectives on relationships
+- Document dependency reciprocity
+
+#### Enterprise Gallery Walk (10 minutes)
+- Post all BU canvases
+- Silent review with focus on cross-BU patterns
+- Participants note enterprise-scale observations
 
 ---
 

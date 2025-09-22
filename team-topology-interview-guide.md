@@ -1,15 +1,16 @@
-# Team Topology Assessment Interview Guide
+# Enterprise Team Topology Assessment Interview Guide
 
 ## Pre-Interview Setup
-- **Duration:** 45-60 minutes
-- **Attendees:** Team lead + 1-2 core team members
-- **Materials:** This guide, note-taking template, dependency mapping worksheet
-- **Goal:** Understand team type, interaction patterns, and improvement opportunities
+- **Duration:** 60-90 minutes (extended for enterprise complexity)
+- **Attendees:** Team lead + 2-3 core team members + Business Unit representative
+- **Materials:** This guide, enterprise org chart, cross-BU dependency mapping worksheet
+- **Goal:** Understand team type, cross-business-unit interaction patterns, enterprise-scale improvement opportunities
+- **Context:** Part of organization-wide assessment involving 20+ teams across multiple business units
 
 ## Opening (5 minutes)
 
 ### Introduction
-"Thank you for taking the time to discuss your team's structure and interactions. This assessment will help us understand how teams work together and identify opportunities to improve collaboration and reduce friction. There are no right or wrong answers - we want to understand your current reality."
+"Thank you for taking the time to discuss your team's structure and interactions in our enterprise-wide Team Topology assessment. This assessment will help us understand how teams work together across business units and identify opportunities to improve collaboration and reduce friction at enterprise scale. We're particularly interested in cross-business-unit dependencies and platform service opportunities. There are no right or wrong answers - we want to understand your current reality within our complex organizational structure."
 
 ### Ground Rules
 - Honest feedback is valuable
@@ -17,18 +18,22 @@
 - Examples and specific situations are helpful
 - All responses will be aggregated and anonymized
 
-## Section 1: Team Overview (10 minutes)
+## Section 1: Enterprise Team Overview (15 minutes)
 
 ### Basic Information
 1. **Team composition**: Who's on your team and what are their primary roles?
-2. **Team mission**: How would you describe your team's purpose in one sentence?
-3. **Primary deliverables**: What are the main things your team produces or maintains?
-4. **Success metrics**: How do you measure whether your team is successful?
+2. **Business unit context**: How does your team fit within your business unit's strategy?
+3. **Enterprise mission**: How would you describe your team's purpose within the broader enterprise context?
+4. **Cross-BU impact**: Which other business units are affected by your team's work?
+5. **Primary deliverables**: What are the main things your team produces or maintains?
+6. **Enterprise success metrics**: How do you measure success, and how does it align with enterprise objectives?
 
-### Follow-up Questions
-- How long have most team members been working together?
-- Has your team's mission changed significantly in the past year?
-- Do you feel your current success metrics accurately reflect your impact?
+### Enterprise Context Questions
+- How does your team's work contribute to enterprise-wide initiatives?
+- What enterprise-wide standards or policies does your team need to comply with?
+- How has enterprise growth/changes affected your team's mission in the past year?
+- Do you feel your current success metrics accurately reflect your enterprise impact?
+- How does your team coordinate with similar teams in other business units?
 
 ## Section 2: Customer & Value Delivery (10 minutes)
 
@@ -61,20 +66,24 @@
 2. **Infrastructure control**: Do you manage your own deployment pipeline and infrastructure?
 3. **Process ownership**: Can you change your development and delivery processes independently?
 
-## Section 4: Interaction Patterns (15 minutes)
+## Section 4: Enterprise Interaction Patterns (20 minutes)
 
-### Communication Analysis
-1. **Daily interactions**: Which teams do you communicate with regularly (daily/weekly)?
-2. **Communication methods**: How do you typically communicate with other teams?
-3. **Meeting overhead**: How much time do you spend in cross-team meetings per week?
-4. **Response times**: How quickly do you typically get responses from other teams when you need something?
+### Enterprise Communication Analysis
+1. **Within business unit interactions**: Which teams in your BU do you communicate with regularly?
+2. **Cross-business unit interactions**: Which teams outside your BU do you work with regularly?
+3. **Enterprise communication methods**: How do you communicate across business unit boundaries?
+4. **Meeting overhead**: How much time do you spend in cross-BU meetings vs. within-BU meetings per week?
+5. **Cross-BU response times**: How do response times differ between in-BU and cross-BU requests?
+6. **Enterprise governance**: What enterprise-wide committees or forums does your team participate in?
 
-### Collaboration Modes
-For each team you work with regularly:
-1. **Nature of relationship**: Describe how you work together
-2. **Interaction frequency**: How often do you interact?
-3. **Collaboration quality**: How would you rate the effectiveness of this relationship?
-4. **Pain points**: What makes this relationship challenging?
+### Enterprise Collaboration Modes
+For each major team relationship (especially cross-BU):
+1. **Business unit context**: Which BU does this team belong to?
+2. **Nature of relationship**: Describe how you work together across BU boundaries
+3. **Interaction frequency**: How often do you interact, and through what channels?
+4. **Enterprise complexity**: How does being in different BUs affect your collaboration?
+5. **Collaboration quality**: How effective is this cross-BU relationship?
+6. **Enterprise pain points**: What enterprise-scale factors make this relationship challenging?
 
 ### Service Provision (if applicable)
 1. **Self-service capability**: Can other teams use your services without involving you directly?
@@ -96,17 +105,21 @@ For each team you work with regularly:
 3. **External expertise**: How often do you need help from people outside your team?
 4. **Maintenance burden**: What percentage of your time is spent on maintenance vs. new development?
 
-## Section 6: Improvement Opportunities (5 minutes)
+## Section 6: Enterprise Improvement Opportunities (10 minutes)
 
-### Current Challenges
-1. **Biggest frustrations**: What are your team's biggest challenges related to working with other teams?
-2. **Efficiency barriers**: What slows down your team's ability to deliver value?
-3. **Communication gaps**: Where do misunderstandings or information gaps typically occur?
+### Current Enterprise Challenges
+1. **Cross-BU frustrations**: What are your team's biggest challenges working across business unit boundaries?
+2. **Enterprise efficiency barriers**: What enterprise-scale factors slow down your team's ability to deliver value?
+3. **Cross-BU communication gaps**: Where do misunderstandings typically occur in cross-BU interactions?
+4. **Platform service gaps**: What enterprise platform services are missing that would help your team?
+5. **Duplicate efforts**: Where do you see teams across the enterprise duplicating similar work?
 
-### Ideal Future State
-1. **Relationship improvements**: If you could change how your team interacts with others, what would you change?
-2. **Autonomy wishes**: What additional autonomy would help your team be more effective?
-3. **Support needs**: What kind of support would be most valuable for your team?
+### Enterprise Future State Vision
+1. **Cross-BU relationship improvements**: How would you redesign cross-business-unit team interactions?
+2. **Enterprise autonomy**: What enterprise policies or processes limit your team's effectiveness?
+3. **Platform service needs**: What enterprise-wide platform services would help your team be more effective?
+4. **Enterprise support**: What kind of enterprise-level support would be most valuable?
+5. **Organizational structure**: If you could restructure how teams are organized across business units, what would you change?
 
 ## Closing (5 minutes)
 

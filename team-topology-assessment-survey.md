@@ -1,13 +1,19 @@
-# Team Topology Assessment Survey
+# Enterprise Team Topology Assessment Survey
 
 ## Instructions
-Please complete this survey for your team. This assessment will help identify your team's topology type and interaction patterns. Rate each statement on a scale of 1-5 (1 = Strongly Disagree, 5 = Strongly Agree).
+Please complete this survey for your team. This enterprise assessment will help identify your team's topology type and interaction patterns across our large organization. Rate each statement on a scale of 1-5 (1 = Strongly Disagree, 5 = Strongly Agree).
+
+**Context**: This survey is part of an organization-wide Team Topology assessment involving 20+ teams across multiple business units. Your responses will help optimize team interactions and reduce cross-organizational dependencies.
 
 ## Team Information
 - **Team Name:** _______________
 - **Team Lead:** _______________
+- **Business Unit/Division:** _______________
+- **Reporting Manager/Director:** _______________
 - **Team Size:** _______________
 - **Primary Technology Stack:** _______________
+- **Annual Budget Range:** _______________
+- **Geographic Distribution:** _______________
 
 ## Section A: Team Purpose & Focus
 
@@ -51,20 +57,34 @@ Please complete this survey for your team. This assessment will help identify yo
 
 ## Section C: Interaction Patterns
 
-### C1. Collaboration Frequency
+### C1. Enterprise Collaboration Frequency
 How often does your team interact with other teams?
-- Daily: _____ teams
-- Weekly: _____ teams
-- Monthly: _____ teams
-- Quarterly: _____ teams
+- **Within Business Unit:**
+  - Daily: _____ teams
+  - Weekly: _____ teams
+  - Monthly: _____ teams
+  - Quarterly: _____ teams
+- **Cross-Business Unit:**
+  - Daily: _____ teams
+  - Weekly: _____ teams
+  - Monthly: _____ teams
+  - Quarterly: _____ teams
+- **External Vendors/Partners:** _____ relationships
 
-### C2. Communication Methods (Select all that apply)
-- [ ] Shared Slack channels with other teams
-- [ ] Regular cross-team meetings
-- [ ] Shared documentation/wikis
-- [ ] Joint planning sessions
-- [ ] Shared code repositories
+### C2. Enterprise Communication Methods (Select all that apply)
+- [ ] Shared Slack channels with teams in same business unit
+- [ ] Cross-business-unit communication channels
+- [ ] Regular cross-team meetings within business unit
+- [ ] Cross-business-unit leadership meetings
+- [ ] Shared documentation/wikis (enterprise-wide)
+- [ ] Joint planning sessions (within business unit)
+- [ ] Cross-business-unit strategic planning
+- [ ] Shared code repositories (within business unit)
+- [ ] Enterprise-wide shared repositories
 - [ ] Cross-team embedded members
+- [ ] Cross-business-unit staff rotations
+- [ ] Enterprise architecture review boards
+- [ ] Vendor/partner coordination meetings
 
 ### C3. Service Relationships
 1. Other teams consume our services through well-defined APIs (1-5)
@@ -102,17 +122,35 @@ Rate your preference (1-5) for each interaction mode:
 3. We often duplicate work being done by other teams (1-5)
 4. Misunderstandings with other teams cause rework (1-5)
 
+## Enterprise Context Questions
+
+### E3. Cross-Business Unit Dependencies
+1. How many teams outside your business unit does your team depend on regularly? _____
+2. What percentage of your team's delays are caused by cross-business-unit dependencies? _____%
+3. How often do you need approval from teams in other business units? (1-5)
+4. How effective is cross-business-unit communication in your organization? (1-5)
+
+### E4. Enterprise Platform Services
+1. How many enterprise-wide platform services does your team consume? _____
+2. How satisfied are you with enterprise platform service quality? (1-5)
+3. How often do enterprise platform changes break your team's work? (1-5)
+4. How well do enterprise platform teams communicate changes? (1-5)
+
 ## Open-Ended Questions
 
-1. **Team Purpose**: In one sentence, describe your team's primary purpose.
+1. **Team Purpose**: In one sentence, describe your team's primary purpose within the broader enterprise context.
 
-2. **Key Relationships**: List the 3 teams you interact with most frequently and describe the nature of each relationship.
+2. **Key Enterprise Relationships**: List the 5 teams you interact with most frequently, noting which business unit each belongs to and the nature of each relationship.
 
-3. **Biggest Challenges**: What are your team's biggest challenges related to working with other teams?
+3. **Cross-Business Unit Challenges**: What are your team's biggest challenges related to working with teams in other business units?
 
-4. **Ideal State**: If you could redesign how your team interacts with others, what would you change?
+4. **Enterprise Optimization**: If you could redesign how teams interact across the entire enterprise, what would you change?
 
-5. **Success Metrics**: What metrics does your team use to measure success?
+5. **Business Unit Impact**: How does your team's work directly impact other business units?
+
+6. **Platform Service Needs**: What enterprise-wide platform services would help your team be more effective?
+
+7. **Success Metrics**: What metrics does your team use to measure success, and how do they align with enterprise objectives?
 
 ## Thank You!
 Your responses will help us better understand team interactions and identify opportunities for improvement.
