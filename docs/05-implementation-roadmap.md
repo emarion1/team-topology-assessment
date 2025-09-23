@@ -396,3 +396,16 @@ This roadmap follows principles from "Wiring the Winning Organization" by Gene K
 | MTTR Improvement | 40% | 60% | 75% | 80% |
 | Team Autonomy | 20% | 40% | 65% | 80% |
 | Cognitive Load Score | +0.5 | +1.0 | +1.5 | +2.0 |
+
+---
+
+## What's Next?
+
+🔧 **Ready to start assessment?** Begin with the [Assessment Tools](../assessment/).
+
+📊 **Need to understand team types first?** Review the [Quick Reference Guide](01-quick-reference.md).
+
+### Navigation
+- ⬅️ **Previous**: [Team & Platform Optimization](04-team-platform-optimization.md)
+- 🔧 **Assessment Tools**: [Assessment Directory](../assessment/)
+- 🏠 **Home**: [Main README](../README.md)

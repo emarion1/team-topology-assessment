@@ -67,3 +67,15 @@
 - **Technical**: Performance benchmarks met
 - **Integration**: Consuming team satisfaction
 - **Innovation**: R&D milestones achieved
+
+---
+
+## What's Next?
+
+📖 **Want detailed guidance?** Read the complete [Team Topologies Guide](02-team-topologies-guide.md).
+
+🔧 **Ready to assess your teams?** Start with the [Assessment Survey](../assessment/survey.md).
+
+### Navigation
+- ➡️ **Next**: [Team Topologies Guide](02-team-topologies-guide.md)
+- 🏠 **Home**: [Main README](../README.md)

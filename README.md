@@ -32,12 +32,13 @@ graph LR
 ## 🎯 Phase 1: Understand the Framework
 
 ### Start Here: Core Concepts
-Read the **[Team Topologies Implementation Guide](team_topologies.md)** to understand:
+
+**New to Team Topologies?** Start with the **[Quick Reference Guide](docs/01-quick-reference.md)** for essential team types and interaction modes.
+
+**Ready for depth?** Read the **[Team Topologies Guide](docs/02-team-topologies-guide.md)** to understand:
 - **4 Team Types**: Stream-Aligned, Platform, Enabling, Complicated Subsystem
 - **3 Interaction Modes**: Collaboration, X-as-a-Service, Facilitating
 - **Enterprise Challenges**: Cognitive load, flow optimization, cross-BU dependencies
-
-**Quick Reference**: Start with the **[Quick Reference Guide](02a_quick_reference.md)** for essential team types, interaction modes, and success metrics.
 
 ### Key Questions to Answer:
 - What team types do we likely have?
@@ -153,31 +154,33 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 ## 🎁 What's Included in This Toolkit
 
 ### 📚 **Strategy & Framework**
-- **[Team Topologies Implementation Guide](team_topologies.md)** - Main framework document
-- **[Quick Reference Guide](02a_quick_reference.md)** - Essential team types and interaction modes
-- **[Cognitive Load & Flow Optimization](05_cognitive_load_flow_optimization.md)** - Foundational optimization strategies
-- **[Team & Platform Optimization](06_team_platform_optimization.md)** - Advanced organizational improvements
-- **[Enhanced Implementation Roadmap](08_enhanced_implementation_roadmap.md)** - Detailed 12-month implementation plan with budgets and timelines
+- **[Quick Reference Guide](docs/01-quick-reference.md)** - Essential team types and interaction modes
+- **[Team Topologies Guide](docs/02-team-topologies-guide.md)** - Complete framework and strategy
+- **[Cognitive Load Optimization](docs/03-cognitive-load-optimization.md)** - Foundational improvements
+- **[Team & Platform Optimization](docs/04-team-platform-optimization.md)** - Advanced organizational strategies
+- **[Implementation Roadmap](docs/05-implementation-roadmap.md)** - Detailed 12-month plan with timelines
 
 ### 📋 **Assessment Tools** (Primary: Survey-Based)
-- **[Enterprise Survey](team-topology-assessment-survey.md)** - Primary assessment tool with comprehensive cross-BU analysis
-- **[Google Forms Setup Guide](google-forms-setup-guide.md)** - Easy online survey deployment and response tracking
-- **[Interview Guide](team-topology-interview-guide.md)** - Strategic validation interviews (5-10 interviews)
-- **[Dependency Mapping Canvas](dependency-mapping-canvas.md)** - Data-driven visualization from survey responses
+- **[Assessment Overview](assessment/)** - Complete assessment toolkit and guidance
+- **[Enterprise Survey](assessment/survey.md)** - Primary assessment tool with comprehensive analysis
+- **[Interview Guide](assessment/interview-guide.md)** - Strategic validation interviews
+- **[Dependency Mapping](assessment/dependency-mapping.md)** - Visual dependency analysis
+- **[Scoring Framework](assessment/scoring-framework.md)** - Classification and analysis system
 
-### 📊 **Analysis & Implementation**
-- **[Scoring & Analysis Framework](scoring-analysis-framework.md)** - Mathematical classification system optimized for survey data
-- **[Workshop Facilitation Guide](workshop-facilitation-guide.md)** - Optional single validation workshop (if needed)
+### 🛠️ **Tools & Utilities**
+- **[Tools Overview](tools/)** - Supporting tools and implementation guides
+- **[Google Forms Setup](tools/google-forms-setup.md)** - Easy survey deployment guide
+- **[Workshop Facilitation](tools/workshop-facilitation.md)** - Group assessment alternative
 
 ---
 
 ## 🔄 Getting Started Checklist
 
 ### ✅ **This Week** (Understanding Phase)
-- [ ] Read the [Quick Reference Guide](02a_quick_reference.md) for core concepts
-- [ ] Read the [Team Topologies Implementation Guide](team_topologies.md) for comprehensive framework
-- [ ] Review the [Enhanced Implementation Roadmap](08_enhanced_implementation_roadmap.md) for budget and timeline planning
-- [ ] Review all assessment tools to understand the scope
+- [ ] Read the [Quick Reference Guide](docs/01-quick-reference.md) for core concepts
+- [ ] Read the [Team Topologies Guide](docs/02-team-topologies-guide.md) for comprehensive framework
+- [ ] Review the [Implementation Roadmap](docs/05-implementation-roadmap.md) for planning
+- [ ] Explore [Assessment Tools](assessment/) to understand evaluation scope
 - [ ] Identify executive sponsors and key stakeholders
 
 ### ✅ **Next 2-4 Weeks** (Preparation Phase)
@@ -187,12 +190,12 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 - [ ] Develop communication plan for organization-wide initiative
 
 ### ✅ **Months 1-3** (Assessment Phase)
-- [ ] Deploy enterprise survey organization-wide with executive support
-- [ ] Achieve 85%+ survey response rate through targeted follow-ups
-- [ ] Analyze survey data and apply scoring framework
-- [ ] Conduct 5-10 strategic validation interviews
-- [ ] Create data-driven cross-BU dependency mappings
-- [ ] Optional: Run single validation workshop if significant gaps identified
+- [ ] Deploy [enterprise survey](assessment/survey.md) organization-wide
+- [ ] Achieve 85%+ response rate using [tools and guides](tools/)
+- [ ] Analyze data using [scoring framework](assessment/scoring-framework.md)
+- [ ] Conduct strategic [validation interviews](assessment/interview-guide.md)
+- [ ] Create [dependency mappings](assessment/dependency-mapping.md)
+- [ ] Optional: Run validation workshop using [facilitation guide](tools/workshop-facilitation.md)
 
 ### ✅ **Month 4** (Analysis Phase)
 - [ ] Apply scoring framework to classify all teams
@@ -229,6 +232,25 @@ Contributions and improvements are welcome based on the Team Topologies framewor
 
 ---
 
-**Version**: 2.0 - Enterprise Edition
-**Last Updated**: $(date +'%Y-%m-%d')
+---
+
+## 🗂️ Repository Structure
+
+```
+📁 docs/           - Complete framework and strategy guides
+📁 assessment/     - Primary assessment tools and analysis
+📁 tools/          - Supporting utilities and setup guides
+📄 README.md       - This overview and starting point
+```
+
+### Quick Access Links
+- 🚀 **Start Here**: [Quick Reference](docs/01-quick-reference.md)
+- 📖 **Full Guide**: [Team Topologies Guide](docs/02-team-topologies-guide.md)
+- 📋 **Assess Teams**: [Assessment Tools](assessment/)
+- 🛠️ **Implementation**: [Implementation Roadmap](docs/05-implementation-roadmap.md)
+
+---
+
+**Version**: 2.1 - Restructured Edition
+**Last Updated**: September 2024
 **Recommended for**: Large enterprises with 20+ development teams and complex organizational structures
