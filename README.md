@@ -35,7 +35,9 @@ graph LR
 Read the **[Team Topologies Implementation Guide](team_topologies.md)** to understand:
 - **4 Team Types**: Stream-Aligned, Platform, Enabling, Complicated Subsystem
 - **3 Interaction Modes**: Collaboration, X-as-a-Service, Facilitating
-- **Enterprise Challenges**: Conway's Law, cognitive load, cross-BU dependencies
+- **Enterprise Challenges**: Cognitive load, flow optimization, cross-BU dependencies
+
+**Quick Reference**: Start with the **[Quick Reference Guide](02a_quick_reference.md)** for essential team types, interaction modes, and success metrics.
 
 ### Key Questions to Answer:
 - What team types do we likely have?
@@ -151,7 +153,11 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 ## 🎁 What's Included in This Toolkit
 
 ### 📚 **Strategy & Framework**
-- **[Team Topologies Implementation Guide](team_topologies.md)** - Comprehensive framework and strategy document
+- **[Team Topologies Implementation Guide](team_topologies.md)** - Main framework document
+- **[Quick Reference Guide](02a_quick_reference.md)** - Essential team types and interaction modes
+- **[Cognitive Load & Flow Optimization](05_cognitive_load_flow_optimization.md)** - Foundational optimization strategies
+- **[Team & Platform Optimization](06_team_platform_optimization.md)** - Advanced organizational improvements
+- **[Enhanced Implementation Roadmap](08_enhanced_implementation_roadmap.md)** - Detailed 12-month implementation plan with budgets and timelines
 
 ### 📋 **Assessment Tools** (Primary: Survey-Based)
 - **[Enterprise Survey](team-topology-assessment-survey.md)** - Primary assessment tool with comprehensive cross-BU analysis
@@ -168,7 +174,9 @@ Read the **[Team Topologies Implementation Guide](team_topologies.md)** to under
 ## 🔄 Getting Started Checklist
 
 ### ✅ **This Week** (Understanding Phase)
-- [ ] Read the [Team Topologies Implementation Guide](team_topologies.md)
+- [ ] Read the [Quick Reference Guide](02a_quick_reference.md) for core concepts
+- [ ] Read the [Team Topologies Implementation Guide](team_topologies.md) for comprehensive framework
+- [ ] Review the [Enhanced Implementation Roadmap](08_enhanced_implementation_roadmap.md) for budget and timeline planning
 - [ ] Review all assessment tools to understand the scope
 - [ ] Identify executive sponsors and key stakeholders
 
