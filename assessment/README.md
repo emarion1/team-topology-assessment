@@ -1,5 +1,7 @@
 # Assessment Tools
 
+> **Attribution Notice**: Assessment tools for applying Team Topologies framework by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 This directory contains all the tools you need to assess your organization's current team topology and identify optimization opportunities.
 
 ## 📋 Primary Assessment Tool

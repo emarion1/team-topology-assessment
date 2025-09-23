@@ -1,5 +1,7 @@
 # Enhanced Implementation Roadmap
 
+> **Attribution Notice**: Implementation guidance based on Team Topologies by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## Implementation Philosophy
 
 This roadmap follows principles from "Wiring the Winning Organization" by Gene Kim:

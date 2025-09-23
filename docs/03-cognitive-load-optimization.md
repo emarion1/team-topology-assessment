@@ -1,5 +1,7 @@
 # Cognitive Load & Flow Optimization
 
+> **Attribution Notice**: Based on Team Topologies by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## Overview
 
 This section focuses on reducing cognitive burden and accelerating value delivery through systematic optimization of how teams process information and deliver work. These optimizations form the foundation for all other improvements.

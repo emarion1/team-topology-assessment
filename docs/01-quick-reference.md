@@ -1,5 +1,7 @@
 # Team Topologies Quick Reference Guide
 
+> **Attribution Notice**: Based on Team Topologies by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## The Four Fundamental Team Types
 
 | Team Type | Purpose | Size | Primary Focus | Interaction Mode |

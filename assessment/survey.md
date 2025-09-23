@@ -1,5 +1,7 @@
 # Enterprise Team Topology Assessment Survey
 
+> **Attribution Notice**: Assessment survey based on Team Topologies framework by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## Instructions
 Please complete this survey for your team. This enterprise assessment will help identify your team's topology type and interaction patterns across our large organization. Rate each statement on a scale of 1-5 (1 = Strongly Disagree, 5 = Strongly Agree).
 

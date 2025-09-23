@@ -1,6 +1,10 @@
 # Enterprise Team Topology Assessment Toolkit
 
+> **Based on Team Topologies by Matthew Skelton & Manuel Pais**
+
 A comprehensive set of tools and templates for conducting Team Topology assessments in large organizations with 20+ development teams and complex interdependencies.
+
+> **Framework Attribution**: This toolkit implements and extends the Team Topologies framework created by Matthew Skelton and Manuel Pais. All core concepts (4 team types, 3 interaction modes) are from their original work. This repository contributes practical assessment tools and enterprise implementation guidance.
 
 ## 📌 Is This Toolkit Right for You?
 
@@ -224,11 +228,26 @@ Once you have assessment data, this toolkit can be customized with your specific
 
 ---
 
-## 📄 License & Contributing
+## 📄 Attribution & License
 
+### Team Topologies Framework Attribution
+This toolkit is based on the **Team Topologies** framework developed by Matthew Skelton and Manuel Pais.
+
+**Original Work:**
+- Book: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
+- Authors: Matthew Skelton and Manuel Pais
+- Website: https://teamtopologies.com/
+- Copyright: IT Revolution Press, 2019
+
+**Our Contribution:**
+This repository provides implementation tools, assessment frameworks, and enterprise-specific guidance for applying Team Topologies concepts. All original assessment tools, scoring frameworks, and implementation guidance are our contribution to the community.
+
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Contributions and improvements are welcome based on the Team Topologies framework.
+**Important:** The Team Topologies framework concepts referenced herein remain the intellectual property of their original authors. This toolkit provides practical implementation guidance and is not affiliated with or endorsed by the original Team Topologies authors.
+
+Contributions and improvements are welcome for the implementation tools and assessment frameworks.
 
 ---
 

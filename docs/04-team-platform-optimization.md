@@ -1,5 +1,7 @@
 # Team & Platform Optimization
 
+> **Attribution Notice**: Based on Team Topologies by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## Overview
 
 This section focuses on optimizing team structures, platform services, and organizational effectiveness. These optimizations build upon the cognitive load and flow improvements to create high-performing, autonomous teams.

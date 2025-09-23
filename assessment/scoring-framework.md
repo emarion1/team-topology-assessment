@@ -1,5 +1,7 @@
 # Enterprise Team Topology Scoring & Analysis Framework
 
+> **Attribution Notice**: Scoring framework for Team Topologies classification by Matthew Skelton & Manuel Pais (IT Revolution Press, 2019)
+
 ## Overview
 This enterprise-focused framework provides a systematic approach to analyze survey responses as the primary data source, supplemented by targeted validation interviews, to classify teams and identify large-scale optimization opportunities in organizations with 20+ teams. The framework is optimized for survey-centric analysis to minimize meeting overhead while maximizing analytical accuracy.
 

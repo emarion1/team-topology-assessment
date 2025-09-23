@@ -1,5 +1,7 @@
 # Team Topologies Framework Implementation Guide
 
+> **Attribution Notice**: This guide is based on the Team Topologies framework by Matthew Skelton and Manuel Pais. The original concepts and framework are their intellectual property. This document provides practical implementation guidance and enterprise-specific tools for applying these concepts.
+
 ## Executive Summary
 
 This document provides a comprehensive characterization of teams using the **Team Topologies** framework by Matthew Skelton and Manuel Pais, along with detailed recommendations for agile methodologies, organizational structures, and optimization strategies. The framework emphasizes four fundamental team types and three core interaction modes to optimize for fast flow and reduced cognitive load.
